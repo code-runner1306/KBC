@@ -1,1 +1,2 @@
-# KBC
+# This program is a remake of the popular trivia game show 'kaun banega crorepati'. In the contestants have to answer a series of trivia questions and they earn money with each correct answer they provide.
+This particular program includes around 50 different trivia questions and provides 4 options for each of the questions asked.The user then enters his answer that he/she deems is correct and enter it to the computer. Should the user get it right, they will start off with a cash prize of 1000 rupees and slowly make their way up. For a single contestant, there are a total of 17 questions to be answered and if you get them all correct, you win a cash prize of 7.5 cr rupees to take home.  
